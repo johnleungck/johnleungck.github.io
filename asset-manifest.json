@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bbb353f.css",
+    "main.js": "/static/js/main.7b5a5244.js",
+    "static/js/787.9d8c6ada.chunk.js": "/static/js/787.9d8c6ada.chunk.js",
+    "static/media/Sous.png": "/static/media/Sous.edb92dcdc2ca07b55414.png",
+    "static/media/portfolioWebsite.png": "/static/media/portfolioWebsite.cd4171f2cc8db2f1160d.png",
+    "static/media/HKU.jpg": "/static/media/HKU.1ffa019a4400eeafa297.jpg",
+    "static/media/instagram.png": "/static/media/instagram.fa767dc54bb713857609.png",
+    "static/media/BUSiFIND.jpg": "/static/media/BUSiFIND.a44bb6e31ad2eedab6d7.jpg",
+    "static/media/steam.png": "/static/media/steam.ba0aa8ecc99c407fdec5.png",
+    "static/media/appStore.png": "/static/media/appStore.730878aa000e37260409.png",
+    "static/media/wirelessComm.jpg": "/static/media/wirelessComm.7bd3c3d8c34535b685ae.jpg",
+    "static/media/matlab.png": "/static/media/matlab.5821b44d86984c741c1b.png",
+    "static/media/discord.png": "/static/media/discord.5a9aea2bb59bd1a2b932.png",
+    "static/media/UOL.jpg": "/static/media/UOL.32e9dd37717e020e56f5.jpg",
+    "static/media/github.png": "/static/media/github.5b6303795440552c2ee0.png",
+    "static/media/cantonese.png": "/static/media/cantonese.345a735e5924716bc2a1.png",
+    "static/media/CMI.jpg": "/static/media/CMI.32382c82077f51cb389c.jpg",
+    "static/media/linkedin.png": "/static/media/linkedin.9eaa96f73a0b53a2eace.png",
+    "static/media/swift.png": "/static/media/swift.d0cf8dd3a99e6de3edc6.png",
+    "static/media/CGA.png": "/static/media/CGA.109a6d38b041271c5690.png",
+    "static/media/controlSystem.png": "/static/media/controlSystem.ea4a19e24751218d26d4.png",
+    "static/media/english.png": "/static/media/english.7d3f62a1c9309dfdfe56.png",
+    "static/media/java.png": "/static/media/java.950aa64f5cf1cc91f9f4.png",
+    "static/media/reactJS.png": "/static/media/reactJS.ccb97f287d4d51b10a6b.png",
+    "static/media/mandarin.png": "/static/media/mandarin.ca46fd70b8bff5b4ac35.png",
+    "static/media/c.jpg": "/static/media/c.e4e201a9817150f91748.jpg",
+    "static/media/LW.png": "/static/media/LW.a710f3cfc616a2c2bd05.png",
+    "static/media/javascript.png": "/static/media/javascript.3dfb665e058d08c99f28.png",
+    "index.html": "/index.html",
+    "main.8bbb353f.css.map": "/static/css/main.8bbb353f.css.map",
+    "main.7b5a5244.js.map": "/static/js/main.7b5a5244.js.map",
+    "787.9d8c6ada.chunk.js.map": "/static/js/787.9d8c6ada.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bbb353f.css",
+    "static/js/main.7b5a5244.js"
+  ]
+}
